@@ -1,5 +1,3 @@
-
-
 package com.example.inventory
 
 import androidx.compose.material.icons.Icons.Filled
